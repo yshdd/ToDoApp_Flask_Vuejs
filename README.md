@@ -17,7 +17,7 @@ HTTPの仕組みやwebアプリに用いる諸言語の理解を深めるため�
   |--- style.css      #templates内の見栄えを管理(css)
 ```
 
-## 最初の画面
+## 画面
 
 <img src="https://user-images.githubusercontent.com/70735561/146554116-c6e951d9-f142-47a2-b439-d19f073710d5.png">
 
